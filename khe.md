@@ -1,10 +1,11 @@
-#Ariaan Mans
-Voornaam: Ariaan
+#Killian van der Heide	
+Voornaam: Killian
 
 
-Achternaam: Mans
+Achternaam: van der Heide
 
 
-Woonplaats: Capelle aan den IJssel
+Woonplaats: Rhoon
 
-![Ariaan](http://static.comicvine.com/uploads/original/11114/111142328/3907799-sym_hagrid.jpg)
+
+![Killian zonder gezeik](https://scontent-ams2-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/11214320_835736969879807_8819786735355257689_n.jpg?oh=c9e2981eeac36a172d5a17bc34fbbbe1&oe=573AA610)
